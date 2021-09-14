@@ -7,7 +7,7 @@ You'll learn Data Analysis and numpy,pandas as well as matplotlib libraries .
 _________________________
 
 ### Features
-1. Easy to fetch data from dataframe.
+1. Easy to fetch data from dataset.
 2. Updating data by deleting null values from dataset.
 3. Able to analyze data by plotting graph.
 _________________________
