@@ -3,7 +3,7 @@ This repository is having all the codes used in AI/ML Skill India Scholarship As
 _________________________
 
 ### About the Repository?
-You'll learn Data Analysis and numpy,pandas as well as matplotlib libraries .
+You'll learn Data Analysis and numpy,pandas as well as matplotlib.pyplot libraries .
 _________________________
 
 ### Features
